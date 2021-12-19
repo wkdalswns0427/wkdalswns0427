@@ -1,7 +1,9 @@
 ### Hi there 👋
-### My name is MinJub Chang
+### My name is MinJun Chang
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawpaw0427@gmail.com)](mailto:pawpaw0427@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github&link=https://github.com/wkdalswns0427)](https://github.com/wkdalswns0427)
+
 <!--
 **wkdalswns0427/wkdalswns0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
