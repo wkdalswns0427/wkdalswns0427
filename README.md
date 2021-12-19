@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawpaw0427@gmail.com)](mailto:pawpaw0427@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github&link=https://github.com/wkdalswns0427)](https://github.com/wkdalswns0427)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 <!--
 **wkdalswns0427/wkdalswns0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
