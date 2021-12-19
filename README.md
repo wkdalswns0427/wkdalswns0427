@@ -1,5 +1,7 @@
 ### Hi there 👋
+### My name is MinJub Chang
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawpaw0427@gmail.com)](mailto:pawpaw0427@gmail.com)
 <!--
 **wkdalswns0427/wkdalswns0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
