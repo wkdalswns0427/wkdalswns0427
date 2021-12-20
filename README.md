@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### My name is MinJun Chang
+### Currently my interest lies on AI and Robotics
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawpaw0427@gmail.com)](mailto:pawpaw0427@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jadelaw2876/)](https://www.instagram.com/jadelaw2876/)
@@ -11,6 +12,12 @@
 ### 🎓 Education
 
 * Undergraduate: [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ Present`
+
+### Academy
+
+* RoboIn(Yonsei Univ. Robot Conference) President `2020.07. ~ Present`
+
+* Hwalchun(Yonsei Univ. College of Engineering Band) Guitar `2019.03. ~ Present`
 
 ### 🔬 Research Experinece
 
@@ -26,7 +33,19 @@
 
 ### Arduino, C++
 
-* 고요샘(GoyoSaem) : A device that controls the amount of light in response to sound.,`2019.03. ~ 2019.12.`
+* 고요샘(GoyoSaem) : A device that controls the amount of light in response to sound,`2019.03. ~ 2019.12.`
+
+* Quadrupedal Robot with PID Control,`2020.07. ~ 2020.09.`
+
+* **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**,`2021.10. ~ 2021.12.`
+
+### RaspberryPi
+
+* Theo Jansen Mechanism Walking Line Tracing Robot,`2020.07. ~ 2020.08.`
+
+* **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**,`2020.12. ~ 2021.01.`
+
+* **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**,`2021.10. ~ 2021.11`
 
 ---
 
