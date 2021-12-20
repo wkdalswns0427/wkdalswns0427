@@ -13,7 +13,7 @@
 
 * Undergraduate: [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ Present`
 
-### Academy
+### 🎪 Academy
 
 * RoboIn(Yonsei Univ. Robot Conference) President `2020.07. ~ Present`
 * Hwalchun(Yonsei Univ. College of Engineering Band) Guitar `2019.03. ~ Present`
@@ -57,6 +57,28 @@
 * IHEI Show Off Festa2 **Best Choice Award** `2021`
 
 ---
+### 🛠 Capable of...
 
+#### Languages
+[![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#Langauges)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#Langauges)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#Langauges)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#Langauges)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#Langauges)
+
+#### Libraries & Frameworks
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#Libraries--Frameworks)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#Libraries--Frameworks)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#Libraries--Frameworks)
+
+#### Skills
+[![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#Skills)
+[![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#Skills)
+[![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#Skills)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#Skills)
+[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#Skills)
+[![Adobe Illustrator](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)]
+
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
 
