@@ -6,6 +6,20 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC6fZzX5dYDrA0Ah8QvCmeug)](https://www.youtube.com/channel/UC6fZzX5dYDrA0Ah8QvCmeug)
 [![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github&link=https://github.com/wkdalswns0427)](https://github.com/wkdalswns0427)
 
+---
+
+### 🎓 Education
+
+* Undergraduate: [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ Present`
+
+### 🔬 Research Experinece
+
+* **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**,`2020.01. ~ 2020.02.`
+
+* **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**,`2020.07. ~ Present`
+
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
 <!--
 **wkdalswns0427/wkdalswns0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
