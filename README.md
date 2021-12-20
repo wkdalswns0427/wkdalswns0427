@@ -18,6 +18,14 @@
 
 * **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**,`2020.07. ~ Present`
 
+### 💻 Work Experience
+
+* **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2020.08.`
+
+### ⚙ Project Experience
+
+* 고요샘(GoyoSaem) : A device that controls the amount of light in response to sound.,`2019.03. ~ 2019.12.`
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
