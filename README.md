@@ -24,7 +24,7 @@
 
 ### ⚙ Project Experience
 
-### 
+### Arduino, C++
 
 * 고요샘(GoyoSaem) : A device that controls the amount of light in response to sound.,`2019.03. ~ 2019.12.`
 
