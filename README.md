@@ -16,14 +16,12 @@
 ### Academy
 
 * RoboIn(Yonsei Univ. Robot Conference) President `2020.07. ~ Present`
-
 * Hwalchun(Yonsei Univ. College of Engineering Band) Guitar `2019.03. ~ Present`
 
 ### 🔬 Research Experinece
 
-* **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**,`2020.01. ~ 2020.02.`
-
-* **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**,`2020.07. ~ Present`
+* **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, `2020.01. ~ 2020.02.`
+* **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ Present`
 
 ### 💻 Work Experience
 
@@ -33,34 +31,32 @@
 
 ### Arduino, C++
 
-* 고요샘(GoyoSaem) : A device that controls the amount of light in response to sound,`2019.03. ~ 2019.12.`
-
-* Quadrupedal Robot with PID Control,`2020.07. ~ 2020.09.`
-
-* **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**,`2021.10. ~ 2021.12.`
+* 고요샘(GoyoSaem) : A device that controls the amount of light in response to sound, `2019.03. ~ 2019.12.`
+* Quadrupedal Robot with PID Control, `2020.07. ~ 2020.09.`
+* **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`
 
 ### RaspberryPi
 
-* Theo Jansen Mechanism Walking Line Tracing Robot,`2020.07. ~ 2020.08.`
+* Theo Jansen Mechanism Walking Line Tracing Robot, `2020.07. ~ 2020.08.`
+* **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**, `2020.12. ~ 2021.01.`
+* **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11`
 
-* **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**,`2020.12. ~ 2021.01.`
+### Python & Web
 
-* **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**,`2021.10. ~ 2021.11`
+* **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.`
+* **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.`
+
+### 🏆 Awards
+
+* YonseiXNexon Creative Platform **Excellence Award** `2019`
+* IHEI Summer Workstation - ACUOUS **Excellence Award** `2020`
+* [KU Medical Hackathon](http://biosku.konkuk.ac.kr/medical/main/main.php) **Excellence Award** `2020`
+* Yonsei IHEI Workstation, **Impact Solution Award** `2021`
+* [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) **Excellence Award** `2021`
+* [Hanium Competition](http://www.hanium.or.kr/) **Selection** `2021`
+* IHEI Show Off Festa2 **Best Choice Award** `2021`
 
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
-<!--
-**wkdalswns0427/wkdalswns0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
