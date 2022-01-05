@@ -15,7 +15,8 @@
 
 ### 🎪 Academy
 
-* RoboIn(Yonsei Univ. Robot Conference) President `2020.07. ~ Present`
+* [RoboIn(Yonsei Univ. Robot Conference)](https://youtube.com/c/RoboinYonseiUniversity) President `2020.07. ~ Present`
+* [YAI(Yonsei Univ. AI Conference)]( https://m.facebook.com/yonseiAI/) `2022.01. ~ Present`
 * Hwalchun(Yonsei Univ. College of Engineering Band) Guitar `2019.03. ~ Present`
 
 ### 🔬 Research Experinece
