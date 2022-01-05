@@ -40,6 +40,7 @@
 * Theo Jansen Mechanism Walking Line Tracing Robot, `2020.07. ~ 2020.08.`
 * **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**, `2020.12. ~ 2021.01.`
 * **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11`
+* **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.`
 
 ### Python & Web
 
