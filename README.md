@@ -44,7 +44,7 @@
 * **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11`
 * **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.`
 
-### Software and Web, Python, Javascript, HTML3, CSS5
+### Software and Web, Python, Javascript, HTML5, CSS3
 
 * **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.`
 * **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.`
