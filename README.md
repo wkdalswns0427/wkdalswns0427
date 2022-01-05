@@ -35,14 +35,15 @@
 * Quadrupedal Robot with PID Control, `2020.07. ~ 2020.09.`
 * **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`
 
-### RaspberryPi
+### RaspberryPi, C & Python
 
 * Theo Jansen Mechanism Walking Line Tracing Robot, `2020.07. ~ 2020.08.`
+* Subtalar Joint Axis Position Locator(in association with Yonsei PED), `2020.03. ~ 2020.11.`
 * **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**, `2020.12. ~ 2021.01.`
 * **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11`
 * **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.`
 
-### Python & Web
+### Software and Web, Python, Javascript, HTML3, CSS5
 
 * **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.`
 * **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.`
