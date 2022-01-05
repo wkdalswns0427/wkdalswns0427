@@ -51,6 +51,7 @@
 
 * YonseiXNexon Creative Platform **Excellence Award** `2019`
 * IHEI Summer Workstation - ACUOUS **Excellence Award** `2020`
+* [EDISON Coptuper Aided Design Competition](https://cfd.edison.re.kr/web/challenge/10th_design) **Top 8** `2020`
 * [KU Medical Hackathon](http://biosku.konkuk.ac.kr/medical/main/main.php) **Excellence Award** `2020`
 * Yonsei IHEI Workstation, **Impact Solution Award** `2021`
 * [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) **Excellence Award** `2021`
