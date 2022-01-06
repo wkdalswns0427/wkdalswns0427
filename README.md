@@ -76,6 +76,7 @@
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#Libraries--Frameworks)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#Libraries--Frameworks)
 [![ROS-melodic](https://img.shields.io/badge/-ROS1--melodic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
+[![ROS-dashing](https://img.shields.io/badge/-ROS1--melodic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
 
 #### Skills
 [![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#Skills)
@@ -85,7 +86,7 @@
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#Skills)
 [![Adobe Illustrator](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#Skills)
 [![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)](#Skills)
-[![Solidworks](https://img.shields.io/badge/-Solidworks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#Skills)
+[![Solidworks](https://img.shields.io/badge/-ROS2--dashing-%2322314E.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#Skills)
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
 
