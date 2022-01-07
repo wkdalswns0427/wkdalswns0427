@@ -79,7 +79,8 @@
 [![ROS-dashing](https://img.shields.io/badge/-ROS2--dashing-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
 
 #### Skills
-[![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#Skills)
+[![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=white)](#Skills)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](#Skills)
 [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#Skills)
 [![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#Skills)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#Skills)
