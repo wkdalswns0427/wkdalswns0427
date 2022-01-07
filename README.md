@@ -26,7 +26,7 @@
 
 ### 💻 Work Experience
 
-* **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2020.08.`
+* **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2021.08.`
 
 ### ⚙ Project Experience
 
