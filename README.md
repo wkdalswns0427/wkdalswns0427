@@ -27,7 +27,7 @@
 ### 💻 Work Experience
 
 * **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2021.08.`
-* **[Toy's Myth](http://www.toysmyth.com/)**, Embeded Engineer, `2022.02. ~ present.`
+* **[Toy's Myth](http://www.toysmyth.com/)**, Embeded Engineer, `2022.02. ~ Present`
 
 ### ⚙ Project Experience
 
