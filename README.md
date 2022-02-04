@@ -1,4 +1,3 @@
-### Hi there 👋
 ### My name is MinJun Chang
 ### Currently my interest lies on AI and Robotics
 
@@ -9,7 +8,9 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=Notion&link=https://checker-manatee-fb6.notion.site/97310e3bac8b45d88724a565b18b0197)](https://checker-manatee-fb6.notion.site/2-f01520d55cc946879f48628b12568aeb)
 
 ---
-
+<details>
+<summary> ✒ Learn more about what I've done! </summary>
+  
 ### 🎓 Education
 
 * Undergraduate: [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ Present`
@@ -61,8 +62,12 @@
 * [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) **Excellence Award** `2021`
 * [Hanium Competition](http://www.hanium.or.kr/) **Selection** `2021`
 * IHEI Show Off Festa2 **Best Choice Award** `2021`
+</details>
 
 ---
+<details>
+<summary> ⚙ See what I can do </summary>
+  
 ### 🛠 Capable of...
 
 #### Languages
@@ -90,6 +95,8 @@
 [![Adobe Illustrator](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#Skills)
 [![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)](#Skills)
 [![Solidworks](https://img.shields.io/badge/-Solidworks-%23FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#Skills)
+</details>
+
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
 
