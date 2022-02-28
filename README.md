@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jadelaw2876/)](https://www.instagram.com/jadelaw2876/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC6fZzX5dYDrA0Ah8QvCmeug)](https://www.youtube.com/channel/UC6fZzX5dYDrA0Ah8QvCmeug)
 [![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github&link=https://github.com/wkdalswns0427)](https://github.com/wkdalswns0427)
-[![Notion Badge](https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=Notion&link=https://checker-manatee-fb6.notion.site/97310e3bac8b45d88724a565b18b0197)](https://checker-manatee-fb6.notion.site/2-f01520d55cc946879f48628b12568aeb)
+[![Notion Badge](https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=Notion&link=https://checker-manatee-fb6.notion.site/97310e3bac8b45d88724a565b18b0197)](https://checker-manatee-fb6.notion.site/s-Notion-29f98f3664ff45adaaaa882dc97013fb)
 
 ---
 <details>
