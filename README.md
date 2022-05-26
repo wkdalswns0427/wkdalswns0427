@@ -39,13 +39,18 @@
 * **Quadrupedal Robot with PID Control**, `2020.07. ~ 2020.09.`
 * **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`
 
+### ESP32
+
+- **[WT901, HWT905(Wit-motion) gyroscope RS485 communication firmware](https://github.com/wkdalswns0427/WIT_Motion_gyroscope)**, `2022.04.`
+
 ### RaspberryPi, C & Python
 
-* **Theo Jansen Mechanism Walking Line Tracing Robot**, `2020.07. ~ 2020.08.`
-* **Subtalar Joint Axis Position Locator(in association with Yonsei PED)**, `2020.03. ~ 2020.11.`
-* **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**, `2020.12. ~ 2021.01.`
-* **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11`
-* **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.`
+- **Theo Jansen Mechanism Walking Line Tracing Robot**, `2020.07. ~ 2020.08.`
+- **Subtalar Joint Axis Position Locator(in association with Yonsei PED)**, `2020.03. ~ 2020.11.`
+- **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**, `2020.12. ~ 2021.01.`
+- **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11`
+- **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.`
+- **[Spot Micro Walking Robot](https://github.com/wkdalswns0427/spot_micro_project)**, `2021.10. ~ Present`
 
 ### Software and Web, Python, Javascript, HTML5, CSS3
 
