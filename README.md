@@ -17,9 +17,11 @@
 
 ### 🎪 Academy
 
-* [RoboIn(Yonsei Univ. Robot Conference)](https://youtube.com/c/RoboinYonseiUniversity) President `2020.07. ~ Present`
+- [RoboIn(Yonsei Univ. Robot Conference)](https://youtube.com/c/RoboinYonseiUniversity) `2020.04. ~ Present`
+    
+    (President `2021.07. ~ 2022.08` )
 * [YAI(Yonsei Univ. AI Conference)](https://m.facebook.com/yonseiAI/) `2022.01. ~ Present`
-* [Hwalchun(Yonsei Univ. College of Engineering Band)](https://hwalchun.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8) Guitar `2019.03. ~ Present`
+* [Hwalchun(Yonsei Univ. College of Engineering Band)](https://hwalchun.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8) Guitar `2019.03. ~ 2022.02`
 
 ### 🔬 Research Experinece
 
