@@ -26,7 +26,7 @@
 ### 🔬 Research Experinece
 
 * **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, `2020.01. ~ 2020.02.`
-* **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ Present`
+* **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ 2021.06.`
 
 ### 💻 Work Experience
 
@@ -39,7 +39,7 @@
 
 * **고요샘(GoyoSaem) : A device that controls the amount of light in response to sound**, `2019.03. ~ 2019.12.`
 * **Quadrupedal Robot with PID Control**, `2020.07. ~ 2020.09.`
-* **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`
+* **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`[(video)](https://www.youtube.com/watch?v=QdEd7_wRPp0&t=12s)
 
 ### ESP32
 
