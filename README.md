@@ -70,6 +70,7 @@
 * [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) **Excellence Award** `2021`
 * [Hanium Competition](http://www.hanium.or.kr/) **Selection** `2021`
 * IHEI Show Off Festa2 **Best Choice Award** `2021`
+* 2022 Autonomous Driving Robot Race **Grand Prize** `2022`
 </details>
 
 ---
