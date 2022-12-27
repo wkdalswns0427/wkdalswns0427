@@ -36,17 +36,15 @@
 
 ### ⚙ Project Experience
 
-### Arduino, C++
+### MCU based(Arduino, ESP32) : C, C++
 
-* **고요샘(GoyoSaem) : A device that controls the amount of light in response to sound**, `2019.03. ~ 2019.12.`
-* **Quadrupedal Robot with PID Control**, `2020.07. ~ 2020.09.`
-* **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`[(video)](https://www.youtube.com/watch?v=QdEd7_wRPp0&t=12s)
-
-### ESP32
-
+- **고요샘(GoyoSaem) : A device that controls the amount of light in response to sound**, `2019.03. ~ 2019.12.`
+- **Quadrupedal Robot with PID Control**, `2020.07. ~ 2020.09.`
+- **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`[(video)](https://www.youtube.com/watch?v=QdEd7_wRPp0&t=12s)
 - **[WT901, HWT905(Wit-motion) gyroscope RS485 communication firmware](https://github.com/wkdalswns0427/WIT_Motion_gyroscope)**, `2022.04.`
+- **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing`
 
-### RaspberryPi, C & Python
+### SBC based : C, Python, C++ 
 
 - **Theo Jansen Mechanism Walking Line Tracing Robot**, `2020.07. ~ 2020.08.`
 - **Subtalar Joint Axis Position Locator(in association with Yonsei PED)**, `2020.03. ~ 2020.11.`
@@ -55,7 +53,7 @@
 - **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.`
 - **[Spot Micro Walking Robot](https://github.com/wkdalswns0427/spot_micro_project)**, `2021.10. ~ Present`
 
-### Software and Web, Python, Javascript, HTML5, CSS3
+### Software & Web : Python, Javascript, HTML5, CSS3
 
 * **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.`
 * **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.`
