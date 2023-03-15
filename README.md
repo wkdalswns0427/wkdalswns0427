@@ -46,9 +46,9 @@
 - **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11` [C]
 - **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.` [Python]
 - **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.` [Python(Flask), JS]
-  - **[Spot Micro Walking Robot](https://github.com/wkdalswns0427/spot_micro_project)**, `2021.10. ~ ongoing(paused)` [Python, C++(ROS)]
+- **[Spot Micro Walking Robot](https://github.com/wkdalswns0427/spot_micro_project)**, `2021.10. ~ ongoing(paused)` [Python, C++(ROS)]
 - **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.` [Python(Pythrch)]
-  - **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing` [FW : C++, API BE : Python(FastAPI), FE : JS]
+- **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing` [FW : C++, API BE : Python(FastAPI), FE : JS]
 
 ### 🏆 Awards
 
@@ -98,4 +98,6 @@
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdalswns0427&layout=compact)](https://github.com/wkdalswns0427/github-readme-stats)
 
