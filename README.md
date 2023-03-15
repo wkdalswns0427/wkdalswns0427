@@ -35,20 +35,20 @@
 * **[DRIMAES](https://drimaes.com/)**, Embedded SW Engineer, `2022.10. ~ Present`
 
 ### ⚙ Project Experience
-
+  
 - **고요샘(GoyoSaem) : A device that controls the amount of light in response to sound**, `2019.03. ~ 2019.12.`
 - **Quadrupedal Robot with PID Control**, `2020.07. ~ 2020.09.` [Arduino C++]
 - **[ZMR250 drone](https://github.com/wkdalswns0427/ZMR250_drone)**, `2021.10. ~ 2021.12.`[(video)](https://www.youtube.com/watch?v=QdEd7_wRPp0&t=12s) [Arduino C++]
 - **[WT901, HWT905(Wit-motion) gyroscope RS485 communication firmware](https://github.com/wkdalswns0427/WIT_Motion_gyroscope)**, `2022.04.` [C, C++]
-- **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing` [FW : C++, API BE : Python(FastAPI), FE : JS]
 - **Theo Jansen Mechanism Walking Line Tracing Robot**, `2020.07. ~ 2020.08.` [Python]
 - **Subtalar Joint Axis Position Locator(in association with Yonsei PED)**, `2020.03. ~ 2020.11.` [Python, C++]
 - **[Compensation Box](https://www.youtube.com/watch?v=bn3E7PXLIBw&list=PLGyiRBJQ9X_u_dl6LDEFkKkryKGEGHRKc)**, `2020.12. ~ 2021.01.` [Arduino C++, Python]
 - **[DC Motor PID controller](https://github.com/wkdalswns0427/PID_Control_Encoder)**, `2021.10. ~ 2021.11` [C]
 - **[ACUOUS(automatic-continuous urine output & urinanalysis system)](https://youtu.be/z2-fFQq6GeI)**, `2020.05. ~ 2020.12.` [Python]
-- **[Spot Micro Walking Robot](https://github.com/wkdalswns0427/spot_micro_project)**, `2021.10. ~ Present` [Python, C++(ROS)]
-* **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.` [Python(Flask), JS]
-* **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.` [Python(Pythrch)]
+- **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.` [Python(Flask), JS]
+  - **[Spot Micro Walking Robot](https://github.com/wkdalswns0427/spot_micro_project)**, `2021.10. ~ ongoing(paused)` [Python, C++(ROS)]
+- **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.` [Python(Pythrch)]
+  - **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing` [FW : C++, API BE : Python(FastAPI), FE : JS]
 
 ### 🏆 Awards
 
