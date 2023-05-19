@@ -92,7 +92,7 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](#Skills)
 [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#Skills)
 [![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#Skills)
-[![Amazon AWS](https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](#Skills)
+[![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#Skills)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#Skills)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#Skills)
 [![Adobe Illustrator](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#Skills)
