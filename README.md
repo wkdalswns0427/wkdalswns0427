@@ -48,7 +48,9 @@
 - **[Eye Tuner](https://github.com/wkdalswns0427/Eye-Tuner)**: Personalized Digital Reading Program, `2021.02. ~ 2021.11.` [Python(Flask), JS]
 - **[Spot Micro Walking Robot](https://github.com/wkdalswns0427/spot_micro_project)**, `2021.10. ~ ongoing(paused)` [Python, C++(ROS)]
 - **[Spine Segmentation with Pytorch](https://github.com/wkdalswns0427/Spine-Segmentation-with-Pytorch-Modified-UNet)**, `2021.10. ~ 2021.12.` [Python(Pythrch)]
+- **[ERP42 platform localization package](https://github.com/wkdalswns0427/erp42_localization)**, `2022.08. ~ 2023.02.` [C++(ROS1 noetic), sensors : mavros imu, ublox gps]
 - **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing` [FW : C++, API BE : Python(FastAPI), FE : JS]
+- **[FennecBot](https://smins.co.kr/batcam2)**, `2023.03. ~ 2023.08.`, [Python]
 
 ### 🏆 Awards
 
@@ -60,7 +62,7 @@
 * [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) **Excellence Award** `2021`
 * [Hanium Competition](http://www.hanium.or.kr/) **Selection** `2021`
 * IHEI Show Off Festa2 **Best Choice Award** `2021`
-* 2022 Autonomous Driving Robot Race **Grand Prize** `2022`
+* [2022 Autonomous Driving Robot Race - racing](https://www.irobotnews.com/news/articleView.html?idxno=30037) **Grand Prize** `2022`
 </details>
 
 ---
@@ -69,19 +71,20 @@
   
 ### 🛠 Capable of...
 
-#### Languages
+#### Programming Languages
 [![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#Langauges)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#Langauges)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#Langauges)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#Langauges)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#Langauges)
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=323330)](#Langauges)
 
 #### Libraries & Frameworks
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/)](#Libraries--Frameworks)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#Libraries--Frameworks)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#Libraries--Frameworks)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#Libraries--Frameworks)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](#Libraries--Frameworks)
 [![ROS-melodic](https://img.shields.io/badge/-ROS1--melodic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
+[![ROS-noetic](https://img.shields.io/badge/-ROS1--noetic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
 [![ROS-dashing](https://img.shields.io/badge/-ROS2--dashing-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
 
 #### Skills
@@ -89,11 +92,14 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](#Skills)
 [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#Skills)
 [![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#Skills)
+[![Amazon AWS](https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](#Skills)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#Skills)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#Skills)
 [![Adobe Illustrator](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#Skills)
 [![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)](#Skills)
 [![Solidworks](https://img.shields.io/badge/-Solidworks-%23FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#Skills)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#Langauges)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#Langauges)
 </details>
 
 ---
