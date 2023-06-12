@@ -1,4 +1,4 @@
-### My name is MinJun Chang
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20MINJUN%20%20&height=200&fontSize=90&fontColor=ffffff)
 ### Currently my interest lies on AI and Robotics
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawpaw0427@gmail.com)](mailto:pawpaw0427@gmail.com)
@@ -107,3 +107,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdalswns0427&layout=compact)](https://github.com/wkdalswns0427/github-readme-stats)
 
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=wkdalswns0427&margin-w=15&row=2&column=4&no-frame=true&theme=onedark"> -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
