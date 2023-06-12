@@ -103,7 +103,7 @@
 </details>
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdalswns0427&layout=compact)](https://github.com/wkdalswns0427/github-readme-stats)
 
