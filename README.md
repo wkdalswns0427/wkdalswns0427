@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20MINJUN%20%20&height=200&fontSize=90&fontColor=ffffff)
-### Currently my interest lies on AI and Robotics
+### Currently my interest lies on AI Robotics and Embeddes System SW
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawpaw0427@gmail.com)](mailto:pawpaw0427@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jadelaw2876/)](https://www.instagram.com/jadelaw2876/)
