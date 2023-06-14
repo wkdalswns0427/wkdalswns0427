@@ -9,11 +9,11 @@
 
 ---
 <details>
-<summary> ✒ Learn more about what I've done! </summary>
+<summary> ✒ Check out what I've done! </summary>
   
 ### 🎓 Education
 
-* Undergraduate: [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ Present`
+* Undergraduate(Senior): [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ Present`
 
 ### 🎪 Academy
 
