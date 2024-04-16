@@ -17,10 +17,11 @@
 
 ### 🎪 Academy
 
-- [RoboIn(Yonsei Univ. Robot Conference)](https://youtube.com/c/RoboinYonseiUniversity) `2020.04. ~ Present`
+- [RoboIn(Yonsei Univ. Robot Group)](https://youtube.com/c/RoboinYonseiUniversity) `2020.04. ~ Present`
     
     (President `2021.07. ~ 2022.08` )
 * [YAI(Yonsei Univ. AI Conference)](https://m.facebook.com/yonseiAI/) `2022.01. ~ Present`
+* [BitCrab(Yonsei Univ. Embedded Group)]([https://m.facebook.com/yonseiAI/](https://bytecrab.notion.site/BitCrab-0046f73a1e654e45822a1ef590113f62)) `2024.03. ~ Present`
 * [Hwalchun(Yonsei Univ. College of Engineering Band)](https://hwalchun.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8) Guitar `2019.03. ~ 2022.02`
 
 ### 🔬 Research Experinece
@@ -33,6 +34,7 @@
 * **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2021.08.`
 * **[Toy's Myth](http://www.toysmyth.com/)**, Embeded Engineer, `2022.02. ~ 2022.10.`
 * **[DRIMAES](https://drimaes.com/)**, Embedded SW Engineer, `2022.10. ~ 2024.03.`
+* **[GoLeRobotics](https://golerobotics.com/)**,SLAM/PathPlanning Enginner, `2024.04. ~ ing`
 
 ### ⚙ Project Experience
   
@@ -51,6 +53,7 @@
 - **[ERP42 platform localization package](https://github.com/wkdalswns0427/erp42_localization)**, `2022.08. ~ 2023.02.` [C++(ROS1 noetic), sensors : mavros imu, ublox gps]
 - **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing` [FW : C++, API BE : Python(FastAPI), FE : JS]
 - **[FennecBot](https://smins.co.kr/batcam2)**, `2023.03. ~ 2023.08.`, [Python]
+- **[Cartrasche](https://github.com/CreativeProductDesign-Cartrache/cartrasche_dev)**, `2024.03. ~ 2024.06.`, [Arduino, ROS, Python]
 
 ### 🏆 Awards
 
@@ -79,13 +82,13 @@
 
 #### Libraries & Frameworks
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/)](#Libraries--Frameworks)
+[![ROS-melodic](https://img.shields.io/badge/-ROS1--melodic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
+[![ROS-noetic](https://img.shields.io/badge/-ROS1--noetic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
+[![ROS-humble](https://img.shields.io/badge/-ROS2--humble-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#Libraries--Frameworks)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#Libraries--Frameworks)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#Libraries--Frameworks)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](#Libraries--Frameworks)
-[![ROS-melodic](https://img.shields.io/badge/-ROS1--melodic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
-[![ROS-noetic](https://img.shields.io/badge/-ROS1--noetic-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
-[![ROS-dashing](https://img.shields.io/badge/-ROS2--dashing-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
 
 #### Skills
 [![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=white)](#Skills)
@@ -93,7 +96,6 @@
 [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#Skills)
 [![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#Skills)
 [![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#Skills)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#Skills)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#Skills)
 [![Adobe Illustrator](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#Skills)
 [![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)](#Skills)
