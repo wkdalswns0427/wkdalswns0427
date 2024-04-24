@@ -2,10 +2,10 @@
 ### Currently my interest lies on AI Robotics and Embeddes System SW
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawpaw0427@gmail.com)](mailto:pawpaw0427@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jadelaw2876/)](https://www.instagram.com/jadelaw2876/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC6fZzX5dYDrA0Ah8QvCmeug)](https://www.youtube.com/channel/UC6fZzX5dYDrA0Ah8QvCmeug)
 [![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github&link=https://github.com/wkdalswns0427)](https://github.com/wkdalswns0427)
 [![Notion Badge](https://img.shields.io/badge/-Notion-%23000000?style=flat-square&logo=Notion&link=https://checker-manatee-fb6.notion.site/97310e3bac8b45d88724a565b18b0197)](https://checker-manatee-fb6.notion.site/s-Notion-29f98f3664ff45adaaaa882dc97013fb)
+[![TiStory Badge](https://img.shields.io/badge/-tistory-%23000000?style=flat-square&logo=tistory&https://maltese-rocks.tistory.com/)](https://maltese-rocks.tistory.com/)
 [![LINKEDIN Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjun-chang-a205b121b)
 
 ---
