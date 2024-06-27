@@ -29,6 +29,7 @@
 
 * **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, `2020.01. ~ 2020.02.`
 * **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ 2021.06.`
+* **[Dynamic Robotic System Lab](http://dyros.snu.ac.kr/)**, `2024.07. ~ present`
 
 ### 💻 Work Experience
 
@@ -54,7 +55,7 @@
 - **[ERP42 platform localization package](https://github.com/wkdalswns0427/erp42_localization)**, `2022.08. ~ 2023.02.` [C++(ROS1 noetic), sensors : mavros imu, ublox gps]
 - **[Leafeon Project](https://github.com/wkdalswns0427/LeafeonRTOS) : RTOS based indoor IoT system**, `2022.12. ~ ongoing` [FW : C++, API BE : Python(FastAPI), FE : JS]
 - **[FennecBot](https://smins.co.kr/batcam2)**, `2023.03. ~ 2023.08.`, [Python]
-- **[Cartrasche](https://github.com/CreativeProductDesign-Cartrache/cartrasche_dev)**, `2024.03. ~ 2024.06.`, [Arduino, ROS, Python]
+- **[Cartrasche](https://github.com/CreativeProductDesign-Cartrache/)**, `2024.03. ~ 2024.06.`, [Arduino, ROS, Python]
 
 ### 🏆 Awards
 
