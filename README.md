@@ -14,29 +14,30 @@
   
 ### 🎓 Education
 
-* Undergraduate(Senior): [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ Present`
+* Undergraduate(Senior): [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ 2025.2.`
 
 ### 🎪 Academy
 
-- [RoboIn(Yonsei Univ. Robot Group)](https://youtube.com/c/RoboinYonseiUniversity) `2020.04. ~ Present`
+- [RoboIn(Yonsei Univ. Robot Group)](https://youtube.com/c/RoboinYonseiUniversity) `2020.04. ~ 2024.12`
     
     (President `2021.07. ~ 2022.08` )
-* [YAI(Yonsei Univ. AI Conference)](https://m.facebook.com/yonseiAI/) `2022.01. ~ Present`
-* [BitCrab(Yonsei Univ. Embedded Group)]([https://m.facebook.com/yonseiAI/](https://bytecrab.notion.site/BitCrab-0046f73a1e654e45822a1ef590113f62)) `2024.03. ~ Present`
+* [YAI(Yonsei Univ. AI Conference)](https://m.facebook.com/yonseiAI/) `2022.01. ~ 2024.12`
+* [BitCrab(Yonsei Univ. Embedded Group)]([https://m.facebook.com/yonseiAI/](https://bytecrab.notion.site/BitCrab-0046f73a1e654e45822a1ef590113f62)) `2024.03. ~ 2024.07`
 * [Hwalchun(Yonsei Univ. College of Engineering Band)](https://hwalchun.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8) Guitar `2019.03. ~ 2022.02`
 
 ### 🔬 Research Experinece
 
 * **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, `2020.01. ~ 2020.02.`
 * **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ 2021.06.`
-* **[Dynamic Robotic System Lab](http://dyros.snu.ac.kr/)**, `2024.07. ~ present`
+* **[Dynamic Robotic System Lab](http://dyros.snu.ac.kr/)**, `2024.07. ~ 2024.12`
 
 ### 💻 Work Experience
 
 * **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2021.08.`
 * **[Toy's Myth](http://www.toysmyth.com/)**, Embeded Engineer, `2022.02. ~ 2022.10.`
 * **[DRIMAES](https://drimaes.com/)**, Embedded SW Engineer, `2022.10. ~ 2024.03.`
-* **[GoLeRobotics](https://golerobotics.com/)**,SLAM/PathPlanning Enginner, `2024.04. ~ ing`
+* **[GoLeRobotics](https://golerobotics.com/)**,SLAM/PathPlanning Enginner, `2024.04. ~ 2024.06`
+* **[Hanwha Systems]([https://golerobotics.com/](https://www.hanwhasystems.com/en/business/defense/space.do))**,Satellite SW Enginner, `2024.04. ~ 2024.06`
 
 ### ⚙ Project Experience
   
@@ -59,15 +60,16 @@
 
 ### 🏆 Awards
 
-* YonseiXNexon Creative Platform **Excellence Award** `2019`
-* IHEI Summer Workstation - ACUOUS **Excellence Award** `2020`
+* YonseiXNexon Creative Platform **Excellence Award(2nd)** `2019`
+* IHEI Summer Workstation - ACUOUS **Excellence Award(2nd)** `2020`
 * [EDISON Coptuper Aided Design Competition](https://cfd.edison.re.kr/web/challenge/10th_design) **Top 8** `2020`
-* [KU Medical Hackathon](http://biosku.konkuk.ac.kr/medical/main/main.php) **Excellence Award** `2020`
+* [KU Medical Hackathon](http://biosku.konkuk.ac.kr/medical/main/main.php) **Excellence Award(2nd)** `2020`
 * Yonsei IHEI Workstation, **Impact Solution Award** `2021`
-* [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) **Excellence Award** `2021`
+* [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) **Excellence Award(2nd)** `2021`
 * [Hanium Competition](http://www.hanium.or.kr/) **Selection** `2021`
 * IHEI Show Off Festa2 **Best Choice Award** `2021`
-* [2022 Autonomous Driving Robot Race - racing](https://www.irobotnews.com/news/articleView.html?idxno=30037) **Grand Prize** `2022`
+* [2022 Autonomous Driving Robot Race - racing](https://www.irobotnews.com/news/articleView.html?idxno=30037) **Grand Prize(1st)** `2022`
+* [2024 National ICT Smart Device Competition](https://www.newsis.com/view/NISX20240827_0002864861) **Grand Prize(1st, by the Minister of Science and ICT, ROK Government)** `2024`
 </details>
 
 ---
