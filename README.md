@@ -14,7 +14,8 @@
   
 ### 🎓 Education
 
-* Undergraduate(Senior): [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul. `2019.3. ~ 2025.2.`
+* Ph.D. Civil Engineering: [**Georgia Institute of Technology** College of Enginneing, School of Civil and Environmental Engineering](https://ce.gatech.edu/), Atlanta, Georgia, USA. `2025.8. ~ `
+* * B.S. Mechanical Engineering: [**Yonsei University** College of Enginneing, Deparment of Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do), Seoul, South Korea. `2019.3. ~ 2025.2.`
 
 ### 🎪 Academy
 
@@ -27,17 +28,17 @@
 
 ### 🔬 Research Experinece
 
-* **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, `2020.01. ~ 2020.02.`
-* **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ 2021.06.`
 * **[Dynamic Robotic System Lab](http://dyros.snu.ac.kr/)**, `2024.07. ~ 2024.12`
+* **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ 2021.06.`
+* **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, `2020.01. ~ 2020.02.`
 
 ### 💻 Work Experience
 
-* **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2021.08.`
-* **[Toy's Myth](http://www.toysmyth.com/)**, Embeded Engineer, `2022.02. ~ 2022.10.`
-* **[DRIMAES](https://drimaes.com/)**, Embedded SW Engineer, `2022.10. ~ 2024.03.`
-* **[GoLeRobotics](https://golerobotics.com/)**,SLAM/PathPlanning Enginner, `2024.04. ~ 2024.06`
 * **[Hanwha Systems]([https://golerobotics.com/](https://www.hanwhasystems.com/en/business/defense/space.do))**,Satellite SW Enginner, `2024.04. ~ 2024.06`
+* **[GoLeRobotics](https://golerobotics.com/)**,SLAM/PathPlanning Enginner, `2024.04. ~ 2024.06`
+* **[DRIMAES](https://drimaes.com/)**, Embedded SW Engineer, `2022.10. ~ 2024.03.`
+* **[Toy's Myth](http://www.toysmyth.com/)**, Embeded Engineer, `2022.02. ~ 2022.10.`
+* **[Alsemy](https://www.alsemy.com/)**, Intern, `2021.06. ~ 2021.08.`
 
 ### ⚙ Project Experience
   
