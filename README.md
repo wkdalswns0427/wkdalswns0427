@@ -19,15 +19,14 @@
 
 ### 🎪 Academy
 
-- [RoboIn(Yonsei Univ. Robot Group)](https://youtube.com/c/RoboinYonseiUniversity) `2020.04. ~ 2024.12`
-    
-    (President `2021.07. ~ 2022.08` )
+* [RoboIn(Yonsei Univ. Robot Group)](https://youtube.com/c/RoboinYonseiUniversity) `2020.04. ~ 2024.12` (President `2021.07. ~ 2022.08` )
 * [YAI(Yonsei Univ. AI Conference)](https://m.facebook.com/yonseiAI/) `2022.01. ~ 2024.12`
 * [BitCrab(Yonsei Univ. Embedded Group)]([https://m.facebook.com/yonseiAI/](https://bytecrab.notion.site/BitCrab-0046f73a1e654e45822a1ef590113f62)) `2024.03. ~ 2024.07`
 * [Hwalchun(Yonsei Univ. College of Engineering Band)](https://hwalchun.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8) Guitar `2019.03. ~ 2022.02`
 
 ### 🔬 Research Experinece
 
+* **[Robotics & Intelligent Construction Automation Lab](https://rical.ce.gatech.edu/)**, `2025.08. ~ current`
 * **[Dynamic Robotic System Lab](http://dyros.snu.ac.kr/)**, `2024.07. ~ 2024.12`
 * **[Mechanobiology & Soft Materials Lab](http://leelab.yonsei.ac.kr/)**, `2020.07. ~ 2021.06.`
 * **[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, `2020.01. ~ 2020.02.`
