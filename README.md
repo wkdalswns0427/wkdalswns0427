@@ -108,11 +108,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#Langauges)
 </details>
 
----
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdalswns0427&layout=compact)](https://github.com/wkdalswns0427/github-readme-stats)
-
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=wkdalswns0427&margin-w=15&row=2&column=4&no-frame=true&theme=onedark"> -->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
